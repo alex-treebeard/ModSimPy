@@ -183,3 +183,4 @@ You can also launch Jupyter from the Start menu on Windows, the Dock on
 macOS, or the Anaconda Navigator on any system. If you do that, Jupyter
 might start in your home directory or somewhere else in your file
 system, so you might have to navigate to find the directory.
+
